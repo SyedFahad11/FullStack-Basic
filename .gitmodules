@@ -31,3 +31,9 @@
 [submodule "11-To-do-list-v2"]
 	path = 11-To-do-list-v2
 	url = https://github.com/SyedFahad11/To-do-list-v2.git
+[submodule "12-Emojipedia"]
+	path = 12-Emojipedia
+	url = https://github.com/SyedFahad11/Emojipedia.git
+[submodule "13-Keeper"]
+	path = 13-Keeper
+	url = https://github.com/SyedFahad11/Keeper-App-Google-keep-clone.git
