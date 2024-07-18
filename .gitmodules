@@ -1,0 +1,33 @@
+[submodule "01-Portfolio-using-html"]
+	path = 01-Portfolio-using-html
+	url = https://github.com/SyedFahad11/First-Repo.git
+[submodule "02-Tindog-A-startup-website"]
+	path = 02-Tindog-A-startup-website
+	url = https://github.com/SyedFahad11/TinDog.git
+[submodule "03-Portfolio-using-css"]
+	path = 03-Portfolio-using-css
+	url = https://github.com/SyedFahad11/Portfolio-CSS.git
+[submodule "04-Dice-game"]
+	path = 04-Dice-game
+	url = https://github.com/SyedFahad11/Dice-Game.git
+[submodule "05-Drum-kit"]
+	path = 05-Drum-kit
+	url = https://github.com/SyedFahad11/Drum-kit.git
+[submodule "06-Simon-game"]
+	path = 06-Simon-game
+	url = https://github.com/SyedFahad11/Simon-Game.git
+[submodule "07-Weather-openWeather.org"]
+	path = 07-Weather-openWeather.org
+	url = https://github.com/SyedFahad11/Weather-API.git
+[submodule "08-MailChimp"]
+	path = 08-MailChimp
+	url = https://github.com/SyedFahad11/MailChimp-NewsLetter.git
+[submodule "09-Web-clock"]
+	path = 09-Web-clock
+	url = https://github.com/SyedFahad11/Web-Clock.git
+[submodule "10-To-do-list-v1"]
+	path = 10-To-do-list-v1
+	url = https://github.com/SyedFahad11/To-do-list-v1.git
+[submodule "11-To-do-list-v2"]
+	path = 11-To-do-list-v2
+	url = https://github.com/SyedFahad11/To-do-list-v2.git
